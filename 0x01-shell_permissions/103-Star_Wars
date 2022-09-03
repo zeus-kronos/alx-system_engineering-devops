@@ -1,1 +1,2 @@
-#!/bin/bash\ntelnet towel.blickenlights.nl
+#!/bin/bash
+telnet towel.blinkenlights.nl
