@@ -14,13 +14,13 @@
 
 5-listfilesdigitonly: Displays current directory contents with user and group IDs displayed numerically
 
-6-firstdirectory: Creates a script that creates a directory named holberton in the /tmp/ directory.
+6-firstdirectory: Creates a script that creates a directory named main in the /tmp/ directory.
 
-7-movethatfile: Moves the file betty from /tmp/ to /tmp/holberton.
+7-movethatfile: Moves the file betty from /tmp/ to /tmp/main.
 
 8-firstdelete: Deletes the file betty.
 
-9-firstdirdeletion: Deletes the directory holberton that is in the /tmp directory.
+9-firstdirdeletion: Deletes the directory main that is in the /tmp directory.
 
 10-back: Changes the working directory to the previous one.
 
@@ -28,7 +28,7 @@
 
 12-file_type: Writes a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
-13-symbolic_link: Links to /bin/ls, named ls. 
+13-symbolic_link: Links to /bin/ls, named ls.
 
 14-copy_html: Copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
